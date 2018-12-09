@@ -4,6 +4,8 @@ from .Cnae import Cnae
 __factory = {
   'seismic': Seismic,
   'cnae': Cnae,
+  'airfoil': Airfoil,
+  'concrete': Concrete,
 }
 
 
