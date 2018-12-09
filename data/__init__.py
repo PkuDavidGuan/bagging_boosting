@@ -1,5 +1,7 @@
 from .Seismic import Seismic
 from .Cnae import Cnae
+from .Airfoil import Airfoil
+from .Concrete import Concrete
 
 __factory = {
   'seismic': Seismic,
